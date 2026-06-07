@@ -1,17 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Adithya%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Automation%20Builder%20%7C%20Open%20to%20Remote%20%26%20Freelance&descAlignY=58&descSize=16" />
+# Hey, I'm Adithya U 👋
 
-</div>
-
----
-
-<div align="center">
+### Full-Stack Developer · Automation Builder · Open to Remote & Freelance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adithya%20U-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithya-u-11d40)
 [![Gmail](https://img.shields.io/badge/Gmail-ambrishathi007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambrishathi007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Adhxizz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhxizz)
-[![Portfolio](https://img.shields.io/badge/Open%20To-Remote%20%26%20Freelance-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+[![GitHub followers](https://img.shields.io/github/followers/Adhxizz?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Adhxizz)
+[![Open to Work](https://img.shields.io/badge/Open%20To-Remote%20%26%20Freelance-22c55e?style=for-the-badge)](mailto:ambrishathi007@gmail.com)
 
 </div>
 
@@ -23,7 +19,7 @@ I'm a **B.E. Computer Science student** (CGPA: 8.29) from Hindusthan Institute o
 
 I don't just write code. I build **end-to-end systems** — from UI to backend to automation pipelines. Whether it's a full-stack web app, a real-time price tracker, or an AI chatbot, I take projects from idea to working product.
 
-> 💡 *TN Skills Level 2 Qualified in Web Technology (Infosys, 2025) · SIH Participant · Python Data Science Certified (NPTEL)*
+> 💡 TN Skills Level 2 Qualified in Web Technology (Infosys, 2025) · SIH Participant · Python Data Science Certified (NPTEL)
 
 ---
 
@@ -65,18 +61,18 @@ I don't just write code. I build **end-to-end systems** — from UI to backend t
 ## 🚀 Projects I'm Proud Of
 
 ### 🔔 [Price-Tracer](https://github.com/Adhxizz/Price-Tracer)
-> *Automated price monitoring for Amazon & Flipkart — no code needed to use it*
+> *Automated price monitoring for Amazon & Flipkart — no manual checking needed*
 
-Built a real-time multi-product price tracker using **n8n + Google Sheets + Telegram**. It monitors product URLs, detects price drops automatically, and fires instant Telegram alerts — all without writing a single line of scraping code.
+Built a real-time multi-product price tracker using **n8n + Google Sheets + Telegram**. It monitors product URLs, detects price drops automatically, and fires instant Telegram alerts — no scraping code required.
 
-`n8n` `Google Sheets API` `Telegram Bot API` `Workflow Automation` `No-code`
+`n8n` `Google Sheets API` `Telegram Bot API` `Workflow Automation`
 
 ---
 
 ### 🌱 [EcoLearn Platform](https://github.com/Adhxizz/ecolearn)
 > *Gamified environmental education for Indian schools*
 
-A full web platform with **quizzes, eco challenges, XP system, leaderboards, and a carbon footprint calculator** — built entirely in JavaScript. Designed to make sustainability education actually fun for students.
+A full web platform with **quizzes, eco challenges, XP system, leaderboards, and a carbon footprint calculator** — built in JavaScript. Makes sustainability education actually fun for students.
 
 `JavaScript` `HTML/CSS` `Gamification` `Education Tech`
 
@@ -85,16 +81,16 @@ A full web platform with **quizzes, eco challenges, XP system, leaderboards, and
 ### 🤖 Interactive Web Chatbot *(Smart India Hackathon)*
 > *AI-powered chatbot built under hackathon pressure*
 
-Developed a web-based chatbot for SIH — handled real-time user input, intent matching, and dynamic response rendering in a clean UI.
+Developed a web-based chatbot for SIH — real-time user input, intent matching, and dynamic response rendering in a clean UI.
 
-`JavaScript` `HTML/CSS` `AI/NLP basics` `Hackathon`
+`JavaScript` `HTML/CSS` `AI/NLP basics`
 
 ---
 
 ### 💇 Grooming Salon Website
-> *Full-featured business website with booking system*
+> *Full-featured business website with online booking*
 
-Built a responsive salon website from scratch — service catalog, online booking flow, and mobile-first design. The kind of project clients actually pay for.
+Responsive salon website from scratch — service catalog, online booking flow, and mobile-first design. The kind of project clients actually pay for.
 
 `HTML` `CSS` `Bootstrap` `JavaScript` `MySQL`
 
@@ -104,14 +100,11 @@ Built a responsive salon website from scratch — service catalog, online bookin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adhxizz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhxizz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhxizz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhxizz&layout=compact&theme=tokyonight&hide_border=true)
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adhxizz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adhxizz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -128,7 +121,7 @@ Built a responsive salon website from scratch — service catalog, online bookin
 
 ## 🎯 Currently
 
-- 🔨 Building more full-stack projects to add to this profile
+- 🔨 Building more full-stack projects to grow this profile
 - 📚 Deepening Python + Data Science skills (NPTEL certified)
 - 🌐 Open to **remote full-time SDE roles** and **freelance web dev projects**
 - 📬 Always happy to connect — drop me a message
@@ -149,8 +142,6 @@ If you're building something and need a developer who ships — let's talk.
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
 *Made with curiosity, caffeine, and way too many terminal tabs.*
 
